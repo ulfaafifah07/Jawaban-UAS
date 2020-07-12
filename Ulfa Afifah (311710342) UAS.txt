@@ -1,0 +1,37 @@
+﻿=====================================================================
+Jawaban Ujian Akhir Semester (UAS)
+Arsitektur dan organisasi Komputer
+Nama		: Ulfa Afifah
+NIM		: 311710342
+Matkul 		: Arsitektur dan organisasi Kompute
+Kelas 		: TI.17.D3
+=====================================================================
+
+
+1.	Dalam arsitektur komputer ada 4 komponen Utama CPU, Sebutkan dan jelaskan kegunanaanya?
+Jawab	:
+a)	Casing 
+Casing PC berbentuk yang umum adalah kotak persegi, namun bisa dengan modifikasi bagi mereka yang senang mengotak-atik casing ini. Casing berfungsi melindungi bagian dalamnya dari kotoran atau debu, dari benturan dengan benda lain, sehingga bagian-bagian yang vital akan aman dan tidak cepat rusak.
+b)	Motherboard
+Motherboard atau biasa juga disebut mainboard merupakan sebuah papan utama dimana terdapat komponen-komponen serta chip controller yang bertugas mengatur lalu lintas data dalam sistem motherboard. Fungsi umum dari Motherboard adalah tempat memasangkan processor, RAM, VGA Card, Sound Card, Internal Modem, dan lain – lain.
+c)	Power-Supply Bagian belakang terdiri dari socket penghubung ke monitor dan power listrik. Juga terdapat fan atau kipas angin,Bagian depan terdiri dari kabel-kabel kecil untuk mengalirkan listrik ke setiap bagian di dalam CPU atau motherboard. Tentu saja listrik yang mengalir sudah minim atau diperkecil. Sedangkan di power supply sendiri voltase listrik masih besar, sehingga dilarang keras menyentuhnya. Power supply berfungsi mengalirkan listrik ke setiap bagian komputer agar dapat berjalan. Yang biasa dipakai di PC adalah jenis ATX.
+d)	Prosesor atau CPU adalah chip yang terdiri dari jutaan transistor. Untuk komputer kelas desktop,standar menggunakan Processor Intel Pentium 4 atau Processor AMD Athlon 64. Semakin berat program yang dijalankan, maka tuntutan prosesor dengan kapasitas besar pun lebih besar. CPU berfungsi sebagai otaknya komputer dalam memproses data.
+
+2.	Control Unit adalah bagian dari komputer yang menggenerasi signal yang mengontrol operasi komputer, sebutkan jenis apa saja yang termasuk Control Unit?
+Jawab :
+•	Sequence Logic
+•	Control Unit Register and Decoders
+•	Control Memory
+3.	Set instruksi (instruction set) adalah sekumpulan lengkap instruksi yang dapat di mengerti oleh sebuah CPU. Set instruksi sering juga disebut sebagai bahasa mesin . sebutkan macam-macam format Instruksi?
+Jawab	:
+Format Instruksi
+Op Code Alamat
+• Kode Operasi (Op Code) direpresentasikan dengan singkatan-singkatan yang disebut mnemonic.
+• Contoh Mnemonic: ADD = Penambahan, SUBB = Pengurangan, LOAD = Muatkan data ke memori
+4.	 Direct Memory Access (DMA) adalah suatu metode transfer data dari memori komputer atau RAM ke suatu bagian dari komputer tanpa memprosesnya menggunakan CPU. Sebutkan kelebihan menggunakan DMA ?
+Jawab	: 
+Kelebihan menggunakan mode DMA sangat terasa pada sistem operasi multitasking seperti Windows, Linux, UNIX, dan sebagainya. Karena transfer data akan  menghemat resource processor sehingga processor dapat mengerjakan pekerjaan lain. Keuntungan lainnya adalah kecepatan transfer data dengan menggunakan mode DMA jauh lebih cepat bila dibandingkan dengan menggunakan mode PIO.
+5.	Pipeline adalah mesin yang melaksanakan beberapa komputasi yang berbeda secara bersama-sama, namun pada saat itu setiap komputasi akan berada dalam tahapan eksekusi yang berbeda. Sebutkan dua kategori Pipeline ?
+Jawab	:
+a)	Pipeline Unit Arithmetic 	= Berguna untuk operasi vektor
+b)	Pipeline Unit Instruction 	= Berguna untuk komputer yang mempunyai set instruksi     yang sederhana.
